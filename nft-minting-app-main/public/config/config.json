@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB759C64338154c07E799E6f55938F5450a4A479b",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB759C64338154c07E799E6f55938F5450a4A479b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cranky Skulls",
+  "SYMBOL": "CKSK",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crankyskulls-v2",
+  "SHOW_BACKGROUND": true
+}
